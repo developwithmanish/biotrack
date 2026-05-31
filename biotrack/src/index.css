@@ -52,6 +52,17 @@
 
 body {
   margin: 0;
+  background: #0f172a;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.2);
+}
+
+label {
+  margin-left: 8px;
 }
 
 #root {
